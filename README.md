@@ -7,6 +7,8 @@
 
 [View Full PDF Presentation](./pdf/Pres_Event_Predict.pdf)
 
+[Paper Attempt](./pdf/Prediction_Event.pdf)
+
 
 ## Overview
 
