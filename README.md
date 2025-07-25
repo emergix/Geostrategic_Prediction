@@ -5,6 +5,9 @@
 **Date:** January 7, 2024  
 **Institution:** Natixis - Corporate & Investment Banking
 
+[View Full PDF Presentation](./pdf/Pres_Event_Predict.pdf)
+
+
 ## Overview
 
 This presentation explores the intersection of **natural language processing**, **transformers**, and **optimal transport theory** to predict geostrategic events. It connects statistical physics, quantum theory, and advanced information geometry with modern AI architectures, aiming to model and anticipate complex global developments.
@@ -34,4 +37,3 @@ AI, particularly NLP, is positioned to transform societal understanding. Tools f
 
 ## Document Access
 
-[View Full PDF Presentation](./Pres_Event_Predict.pdf)
